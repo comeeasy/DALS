@@ -1,0 +1,11 @@
+controlnet_3CPM_weight: 0.8
+
+lora_weight: 1.0
+device: "cuda"
+
+num_inference_steps: 25
+default_neg_prompt: "bad quality, blurred, black sky"
+default_prompt: "ubkstch lineart, (best quality, masterpiece)"
+guidance_scale: 7.5
+
+url: "http://127.0.0.1:7860"
