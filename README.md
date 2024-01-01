@@ -1,7 +1,7 @@
 # DALS: Diffusion-based Artistic Landscape Sketch
 
 ![txt2sketch using 3CPM examples](https://github.com/comeeasy/DALS/blob/main/assets/txt2sketch_3CPM.png?raw=true)
-
+<img src="[Assets/icon.png](https://github.com/comeeasy/DALS/blob/main/assets/txt2sketch_3CPM.png)" width="200">
 ---
 
 ## Abstract
