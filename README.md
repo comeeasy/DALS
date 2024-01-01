@@ -7,7 +7,6 @@
 
 Coming soon after publication...
 
----
 
 # How to run demo
 
