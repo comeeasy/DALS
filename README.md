@@ -1,6 +1,6 @@
 # DALS: Diffusion-based Artistic Landscape Sketch
 
-<img src="https://github.com/comeeasy/DALS/blob/main/assets/txt2sketch_3CPM.png" width="1000">
+<img src="https://github.com/comeeasy/DALS/blob/main/assets/txt2sketch_3CPM.png" width="500">
 ---
 
 ## Abstract
@@ -11,7 +11,7 @@ Coming soon after publication...
 
 # How to run demo
 
-<img src="https://github.com/comeeasy/DALS/blob/main/assets/demo_example.png" width="1000">
+<img src="https://github.com/comeeasy/DALS/blob/main/assets/demo_example.png" width="500">
 
 ### Step 1: Install AUTOMATIC1111 webui
 
