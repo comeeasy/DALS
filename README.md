@@ -24,9 +24,7 @@ you can follow instructions [here](https://github.com/Mikubill/sd-webui-controln
 
 ### Step 3: Download weights
 
-- Stable Diffusion weight: link
-- LoRA weight: line
-- ControlNet weight (3CPM): link
+- Weights (about 10GB+): [download link](https://drive.google.com/drive/folders/1c4WdTmARQCVlHv3p_7iXZTsyhyupgzmY?usp=sharing)
 
 ### Step 4: Locate each weight into
 
