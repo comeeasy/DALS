@@ -1,12 +1,19 @@
-# DALS: Diffusion-based Artistic Landscape Sketch
+# [DALS: Diffusion-based Artistic Landscape Sketch](https://www.mdpi.com/2227-7390/12/2/238).
 
 <img src="https://github.com/comeeasy/DALS/blob/main/assets/txt2sketch_3CPM.png" width="500">
----
 
 ## Abstract
 
-Coming soon after publication...
-
+We propose a framework that synthesizes artistic landscape sketches using a diffusion
+model-based approach. Furthermore, we suggest a three-channel perspective map (3CPM) that
+mimics the artistic skill used by real artists. We employ Stable Diffusion, which leads us to use
+ControlNet to process 3CPM in Stable Diffusion. Additionally, we adopt the Low Rank Adaptation
+(LoRA) method to fine-tune our framework, thereby enhancing the quality of sketch and resolving
+the color-remaining problem, which is a frequently observed artifact in the sketch images using
+diffusion models. We implement a bimodal sketch generation interface: text to sketch and image
+to sketch. In producing a sketch, a guide token is used so that our method synthesizes an artistic
+sketch in both cases. Finally, we evaluate our framework using quantitative and quantitative schemes.
+Various sketch images synthesized by our framework demonstrate the excellence of our study.
 
 # How to run demo
 
